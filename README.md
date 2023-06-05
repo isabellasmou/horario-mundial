@@ -4,11 +4,11 @@
 
 <b>Funcionalidades<b>
  
-• Permite ao usuário digitar o nome de uma cidade.
-• Exibe o horário atual da cidade especificada.
+• Permite ao usuário digitar o nome de uma cidade. <br />
+• Exibe o horário atual da cidade especificada.<br />
 • Ajusta corretamente o horário para levar em consideração os fusos horários das cidades.
 
 <b>Dependências<b>
  
-• datetime
+• datetime<br />
 • pytz
